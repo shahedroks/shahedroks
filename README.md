@@ -110,13 +110,15 @@ This project reflects **real-world engineering experience**, including app store
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%"
-       src="https://github-readme-stats.vercel.app/api?username=shahedroks&show_icons=true&theme=dark&hide_border=true" />
-  <img width="49%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahedroks&layout=compact&theme=dark&hide_border=true" />
+  <img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img width="80%"
-       src="https://streak-stats.demolab.com/?user=shahedroks&theme=dark&hide_border=true" />
+  <img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <img width="49%" src="./profile-summary-card-output/github_dark/4-productive-time.svg" />
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </p>
