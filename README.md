@@ -25,7 +25,7 @@ Senior Flutter Developer • Android & iOS • Production-Ready Mobile Apps 🚀
 **(Live on App Store & Google Play)**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shahedroks/shahedroks/main/assets/toflix.png"
+  <img src="https://raw.githubusercontent.com/shahedroks/shahedroks/main/assets/toflix.jpg"
        alt="Toflix App Preview"
        width="100%" />
 </p>
@@ -81,19 +81,42 @@ This project reflects **real-world engineering experience**, including app store
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack (Flutter • Mobile • Backend)
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST%20API-111827?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shahedroks&show_icons=true&theme=dark"/>
+---
+
+## ✅ What I’m Strong At (Flutter Engineer)
+
+- **App Store & Play Store Release** (Production deployment + compliance)
+- **Subscriptions / In-App Purchase** + Payment integrations
+- **API Integration** (REST) + clean state management
+- **Firebase** (Auth, Push Notifications, DB, Analytics)
+- **Performance optimization** + scalable architecture
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" 
+       src="https://github-readme-stats.vercel.app/api?username=shahedroks&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img width="49%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahedroks&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahedroks&theme=dark"/>
+<p align="center">
+  <img width="80%" 
+       src="https://streak-stats.demolab.com?user=shahedroks&theme=dark&hide_border=true" />
 </p>
