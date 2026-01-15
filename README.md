@@ -25,7 +25,7 @@ Senior Flutter Developer • Android & iOS • Production-Ready Mobile Apps 🚀
 **(Live on App Store & Google Play)**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shahedroks/shahedroks/main/assets/toflix.jpg"
+  <img src="https://raw.githubusercontent.com/shahedroks/shahedroks/main/assets/toflix.png"
        alt="Toflix App Preview"
        width="100%" />
 </p>
